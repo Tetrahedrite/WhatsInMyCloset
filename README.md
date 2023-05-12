@@ -17,3 +17,6 @@ What's in my closet? - The application helps you to manage your clothes!
 
 ## Goals
 - Get used to using Spring Boot and Kotlin
+
+## Milestone
+- [Notion](https://whatsinmycloset.notion.site/5f3be8d60724472e943fd5e3d764b630?v=7254cb335aeb44f5a2356886d91fd640)
