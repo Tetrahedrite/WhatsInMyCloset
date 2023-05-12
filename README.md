@@ -1,13 +1,13 @@
 # Whats In My Closet
 What's in my closet? - The application helps you to manage your clothes!
 
-# Purpose
+## Purpose
 - Manage clothes via web interface
 
-# Functions
+## Functions
 - Basic authentication (Sign Up, Sign In, Recover Password)
 - Simple CRUD for clothes
 - Sort and paginate data
 
-# Goals
+## Goals
 - Get used to using Spring Boot and Kotlin
